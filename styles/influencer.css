@@ -1,0 +1,232 @@
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 95px;
+}
+.nav-title{
+  color: rgb(58, 58, 58);
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 36px;
+  letter-spacing: 0px;
+  text-align: left;
+width: 243px;
+height: 52.2px;
+left: 8.33%;
+right: 74.79%;
+top: 2.63%;
+bottom: 95.79%;
+margin-left: 120px;
+}
+.nav-links{
+  color: rgb(58, 58, 58);
+font-size: 16px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+display: flex;
+gap: 24px;
+list-style: none;
+margin-right: 120px;
+}
+.Journey{
+  display:flex ;
+
+}
+.Journey-title{
+color: rgb(58, 58, 58);
+font-size: 52px;
+font-weight: 700;
+line-height: 70px;
+letter-spacing: 0px;
+text-align: left;
+margin-left:120px;
+margin-top: 145px;
+
+}
+.Journey-description{
+  color: rgb(58, 58, 58);
+font-size: 16px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+margin-left: 120px;
+margin-top: 16px;
+}
+.Journey-img{
+  margin-left: 833px;
+  margin-right: 132px;
+  margin-top: 181px;
+  background-image:url("../images/Circle\ design.svg");
+ background-position: top ;
+ 
+}
+.Journey-btn{
+  color: rgb(255, 255, 255);
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+text-align: left;
+margin: 0px 8px;
+gap: 8;
+padding: 10px 24px 10px 24px;
+width: 116px;
+height: 24px;
+border-radius: 41px;
+background: rgb(224, 44, 109);
+width: 196px;
+height: 44px;
+margin-left: 120px;
+border: none;
+}
+.logos{
+  display: flex;
+  gap:50px;
+  margin-left: 300px;
+  /* margin-right: 165px; */
+  margin-top: 170px;
+}
+#card-title{
+  color: rgb(58, 58, 58);
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 70px;
+  letter-spacing: 0px;
+  text-align: left;
+  text-align: center;
+  margin-top: 100px;
+}
+.card{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+.card-img{
+  border-radius: 5px;
+margin-left: 210px;
+margin-top: 47px;
+}
+.card-title{
+  color: rgb(24, 25, 31);
+font-size: 28px;
+font-weight: 500;
+line-height: 40px;
+letter-spacing: 0%;
+text-align: left;
+margin-left: 210px;
+margin-top: 16px;
+}
+.card-tk{
+  color: rgba(0, 0, 0, 0.87);
+font-family: Inter;
+font-size: 24px;
+font-weight: 400;
+line-height: 150%;
+letter-spacing: 0%;
+text-align: left;
+margin-left: 210px;
+margin-top: 6px;
+}
+.card-star{
+  color: rgb(94, 99, 102);
+font-family: Roboto;
+font-size: 14px;
+font-weight: 700;
+line-height: 22px;
+letter-spacing: 0.1px;
+text-align: left;
+margin-left: 210px;
+}
+.card-description{
+  color: rgb(120, 120, 133);
+font-family: Inter;
+font-size: 14px;
+font-weight: 700;
+line-height: 143%;
+letter-spacing: 1.8%;
+text-align: left;
+margin-left: 210px;
+}
+#see-more{
+  color: rgba(224, 44, 109, 0.87);
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+margin-top: 50px;
+list-style: none;
+margin-top: 50px;
+margin-left: 850px;
+}
+.place{
+  display: flex;
+  gap:96px ;
+  margin-top: 123px;
+}
+/* .place-container{
+  display: flex;
+  gap:96px ;
+} */
+.place-btn{
+  color: rgb(255, 255, 255);
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+margin: 0px 8px;
+background: rgb(224, 44, 109);
+gap: 8;
+padding: 10px 24px 10px 24px;
+border: none;
+margin-top: 16px;
+}
+.place-title{
+  color: rgb(10, 8, 38);
+font-size: 38px;
+font-weight: 700;
+line-height: 60px;
+letter-spacing: 0px;
+text-align: left;
+}
+.place-description{
+  color: rgb(108, 108, 108);
+font-size: 16px;
+font-weight: 700;
+line-height: 28px;
+letter-spacing: 0px;
+text-align: left;
+margin-top: 16px;
+}
+.footer{
+  background-color: rgb(10, 8, 38);
+  justify-items: center;
+}
+.footer-title{
+  color: rgb(255, 255, 255);
+font-size: 24px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0px;
+text-align: left;
+}
+.footer-subtitle{
+  color: rgb(217, 219, 225);
+font-size: 14px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+}
+.footer-description{
+  color: rgb(217, 219, 225);
+font-size: 14px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+
+}
